@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3524e5a2d2f20ffbab52c907372c5ecd",
+    "content-hash": "b61b525314ef9d9db175bfa84e63002e",
     "packages": [
         {
             "name": "mage2tv/magento-cache-clean",
-            "version": "1.0.34",
+            "version": "1.0.48",
             "source": {
                 "type": "git",
                 "url": "https://github.com/mage2tv/magento-cache-clean.git",
-                "reference": "6b0a1cee5e9ff9b677a1e049ea6ed0708ee2206f"
+                "reference": "bb1455a58ae32b80485b10e14c551582cac19034"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mage2tv/magento-cache-clean/zipball/6b0a1cee5e9ff9b677a1e049ea6ed0708ee2206f",
-                "reference": "6b0a1cee5e9ff9b677a1e049ea6ed0708ee2206f",
+                "url": "https://api.github.com/repos/mage2tv/magento-cache-clean/zipball/bb1455a58ae32b80485b10e14c551582cac19034",
+                "reference": "bb1455a58ae32b80485b10e14c551582cac19034",
                 "shasum": ""
             },
             "suggest": {
@@ -47,9 +47,15 @@
             ],
             "support": {
                 "issues": "https://github.com/mage2tv/magento-cache-clean/issues",
-                "source": "https://github.com/mage2tv/magento-cache-clean/tree/1.0.34"
+                "source": "https://github.com/mage2tv/magento-cache-clean/tree/1.0.48"
             },
-            "time": "2020-12-07T10:07:40+00:00"
+            "funding": [
+                {
+                    "url": "https://github.com/vinai",
+                    "type": "github"
+                }
+            ],
+            "time": "2022-06-09T10:00:08+00:00"
         }
     ],
     "packages-dev": [],
@@ -60,5 +66,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.3.0"
 }
