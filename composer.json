@@ -5,7 +5,6 @@
         "mage-os/magento-cache-clean": "^1.0"
     },
     "type": "metapackage",
-    "version": "1.0.1",
     "license": [
         "MIT"
     ]
